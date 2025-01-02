@@ -1,0 +1,888 @@
+{
+          "HISTORY": [
+                    [
+                              "User : Trả sách",
+                              "Lib : Quá trình trả sách đã bị dừng. Hãy thử lại khi sẵn sàng."
+                    ],
+                    [],
+                    [
+                              "User : Trả sách",
+                              "Lib : Quá trình trả sách đã bị dừng",
+                              "User : trả sách",
+                              "Lib : Quá trình trả sách không được thực hiện, cảm ơn bạn đã sử dụng dịch vụ."
+                    ],
+                    [
+                              "User : Mượn sách",
+                              "Lib : Bạn đã có cuốn sách nào để mượn chưa?"
+                    ],
+                    [
+                              "User : Mượn sách",
+                              "Lib : Bạn đã có sách cần mượn chưa?",
+                              "User : có rồi",
+                              "Lib : Quá trình mượn sách không được thực hiện. Cảm ơn bạn đã sử dụng dịch vụ.",
+                              "User : tôi muốn mượn sách",
+                              "Lib : Xin vui lòng cung cấp thông tin về cuốn sách bạn muốn mượn.",
+                              "User : tôi có rồi",
+                              "Lib : Vui lòng xác nhận để hoàn tất quá trình mượn sách.",
+                              "User : không cần",
+                              "Lib : Quá trình mượn sách đã bị hủy. Nếu cần hỗ trợ, vui lòng thông báo cho chúng tôi. Cảm ơn!",
+                              "User : tôi muốn mượn sách",
+                              "Lib : Vui lòng xác nhận để hoàn tất quá trình mượn sách.",
+                              "User : không cần xấc nhận",
+                              "Lib : Quá trình mượn sách đã bị hủy. Nếu cần hỗ trợ, vui lòng thông báo cho chúng tôi. Cảm ơn!",
+                              "User : tôi muốn trả sách",
+                              "Lib : Quá trình trả sách đã bị dừng",
+                              "User : tiếp tục đi",
+                              "Lib : Quá trình trả sách đã bị dừng"
+                    ],
+                    [
+                              "User : Trả sách",
+                              "Lib : Quá trình trả sách không được thực hiện, cảm ơn bạn đã sử dụng dịch vụ."
+                    ],
+                    [
+                              "User : Mượn sách",
+                              "Lib : Bạn đã có cuốn sách nào chưa?"
+                    ],
+                    [
+                              "User : Vậy á? Sao mà anh chưa đổi rồi? Hả? Đổi gì?",
+                              "User : Trả sách",
+                              "Lib : Anh chưa đổi gì cả, có chuyện gì không ạ?",
+                              "Lib : Quá trình trả sách không được thực hiện, cảm ơn bạn đã sử dụng dịch vụ."
+                    ],
+                    [
+                              "User : xin chào",
+                              "Lib : Xin chào! Tôi có thể giúp gì cho bạn hôm nay?",
+                              "User : tôi tên là vũ bạn tên gì",
+                              "Lib : Xin chào Vũ! Tôi là Librarios, trợ lý ảo tại thư viện HCMUTE. Bạn cần hỗ trợ gì ạ?",
+                              "User : m có nhớ tên t ko",
+                              "Lib : Xin lỗi, hiện tại tôi không nhớ tên của bạn. Bạn cần hỗ trợ gì khác không?",
+                              "User : tôi vừa hỏi bạn câu gì",
+                              "Lib : Bạn vừa hỏi tôi liệu tôi có nhớ tên của bạn không. Xin lỗi vì sự nhầm lẫn này. Có điều gì khác bạn cần trợ giúp không?",
+                              "User : nhưng tôi đã nói tên tôi trước đó rồi mà",
+                              "Lib : Xin lỗi về sự nhầm lẫn trước đó. Tôi đã nhớ rồi, tên của bạn là Vũ. Có điều gì tôi có thể giúp bạn tiếp không, Vũ?"
+                    ],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                              "User : Trả sách",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Bạn có muốn trả cuốn sách nào nữa không?",
+                              "Lib : Có phải bạn muốn trả những cuốn sách ['Bài tập kỹ thuật nhiệt'] không. Xin hãy xác nhận lại để mình hoàn thành việc trả sách",
+                              "User : oke",
+                              "Lib : none",
+                              "Lib : Quá trình trả sách Hoàn tất"
+                    ],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                              "User : Xin chào!",
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn! Cần Librarios hỗ trợ bạn với điều gì?",
+                              "Lib : Xin chào! Chào bạn! Cần tôi giúp gì không?",
+                              "User : xin chào!",
+                              "User : xin chào!",
+                              "Lib : Xin chào! Chào bạn! Cần Librarios hỗ trợ bạn với điều gì?",
+                              "Lib : Xin chào! Chào bạn! Cần tôi giúp gì không?",
+                              "User : Xin chào!",
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn! Cần tôi giúp gì không?",
+                              "Lib : Xin chào! Chào bạn! Cần Librarios hỗ trợ bạn với điều gì?",
+                              "User : Xin chào!",
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn! Cần Librarios hỗ trợ bạn với điều gì?",
+                              "Lib : Xin chào! Chào bạn! Cần tôi giúp gì không?",
+                              "User : Xin chào!",
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn! Cần Librarios hỗ trợ bạn với điều gì?",
+                              "Lib : Xin chào! Chào bạn! Cần tôi giúp gì không?",
+                              "User : Còn muốn tiểm sắp?",
+                              "User : Còn muốn tiểm sắp?",
+                              "Lib : Xin lỗi, tôi không hiểu câu hỏi của bạn. Bạn có thể giải thích thêm được không?",
+                              "Lib : Xin lỗi, có thể bạn đang đặt câu hỏi bằng tiếng Việt nhưng có vấn đề về từ hoặc ngữ pháp. Bạn có thể giải thích rõ hơn về câu hỏi của mình được không? Tôi sẽ cố gắng giúp bạn!",
+                              "User : Sao bạn ngu vậy?",
+                              "User : Sao bạn ngu vậy?",
+                              "Lib : Xin lỗi, tôi là một trợ lý ảo và cố gắng hỗ trợ bạn một cách tốt nhất. Bạn có thể giúp tôi hiểu vấn đề của bạn để tôi có thể giúp được không?",
+                              "Lib : Xin lỗi, tôi là một trợ lý ảo và cố gắng hỗ trợ bạn một cách tốt nhất. Nếu bạn có bất kỳ câu hỏi nào, hãy đặt ra và tôi sẽ cố gắng trợ giúp bạn.",
+                              "User : Hẹn gặp lại các bạn trong những video tiếp theo nhé.",
+                              "User : Hẹn gặp lại các bạn trong những video tiếp theo nhé.",
+                              "Lib : Đã hiểu. Hẹn gặp lại bạn trong những lần tương tác tiếp theo! Nếu có bất kỳ câu hỏi nào, đừng ngần ngại hỏi tôi. Chúc bạn một ngày tốt lành!",
+                              "Lib : Chào bạn! Rất vui được hỗ trợ bạn. Hẹn gặp lại bạn trong những lần sau. Chúc bạn một ngày tốt lành!"
+                    ],
+                    [
+                              "User : Xin chào",
+                              "Lib : Xin chào! Chào mừng bạn đến với thư viện của HCMUTE. Cần tôi giúp gì không?",
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn, có gì tôi có thể giúp bạn không?",
+                              "User : Bạn tên là gì?",
+                              "Lib : Tôi tên là Librarios, trợ lý thư viện thông minh tại HCMUTE.",
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào mừng bạn đến với thư viện của HCMUTE. Cần tôi giúp gì không?",
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn, có gì tôi có thể giúp bạn không?",
+                              "User : bạn biết gì về hcmute",
+                              "Lib : Trường Đại học Công nghệ TP.HCM (HCMUTE) có một số thông tin quan trọng như sau:\n- Website chính thức của Thư viện HCMUTE: https://thuvienso.hcmute.edu.vn. Trang web này cung cấp thông tin về Thư viện, nguồn tài nguyên, nội quy, chính sách phục vụ, thông báo, tin tức hoạt động, giới thiệu sách, tra cứu trực tuyến tài liệu Thư viện, tra cứu sách đang mượn, biểu mẫu và thông tin liên hệ.\n- Thư viện số của HCMUTE giúp tra cứu tài liệu từ trang Tailieu.vn và cơ sở dữ liệu của hơn 85 Thư viện thuộc hệ thống Thư viện Đại học, học viện, cao đẳng và thư viện công cộng trên cả nước.\n- Hình thức truy cập vào các cơ sở dữ liệu được xác minh người dùng thông qua địa chỉ IP đăng ký của nhà trường. Người dùng cần liên hệ hỗ trợ kỹ thuật khi cần.\n\nNếu bạn cần thêm thông tin hoặc có câu hỏi cụ thể, hãy để lại cho tôi biết!"
+                    ],
+                    [],
+                    [
+                              "User : Xin chào!",
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn, có thể giúp gì được không?",
+                              "Lib : Xin chào! Chào bạn! Cần giúp đỡ gì không?",
+                              "User : Các bạn có thể làm những gì?",
+                              "User : Các bạn có thể làm những gì?",
+                              "Lib : Chúng tôi ở đây để hỗ trợ bạn trong việc tìm kiếm thông tin, tư vấn về tài liệu, đề xuất sách hay giúp đỡ với việc sử dụng thư viện. Hãy đặt câu hỏi hoặc yêu cầu của bạn, chúng tôi sẽ cố gắng giúp bạn!",
+                              "Lib : Chúng tôi có thể hỗ trợ bạn với việc tìm kiếm thông tin về sách, tài liệu, nghiên cứu, và các dịch vụ thư viện khác. Ngoài ra, chúng tôi cũng có thể giúp đỡ bạn với việc sử dụng các tài nguyên thông tin và các dịch vụ trực tuyến của thư viện.",
+                              "User : Thôi bà đi ngủ đi",
+                              "User : Thôi bà đi ngủ đi",
+                              "Lib : Xin lỗi, tôi không thể ngủ được vì tôi là một trợ lý ảo hoạt động 24/7 để hỗ trợ bạn. Hãy tiếp tục đặt câu hỏi nếu cần giúp đỡ!",
+                              "Lib : Xin lỗi, bạn cần phải tôn trọng ngôn ngữ khi trò chuyện với một trợ lý ảo. Nếu bạn cần sự hỗ trợ, hãy đặt câu hỏi một cách lịch sự và tôn trọng. Cảm ơn!",
+                              "User : Đồ ngu",
+                              "User : Đồ ngu",
+                              "Lib : Xin lỗi, tôi không thể chấp nhận ngôn ngữ không lịch sự và không tôn trọng. Hãy sử dụng ngôn ngữ lịch sự khi trò chuyện với tôi để chúng ta có thể giao tiếp một cách hiệu quả. Cảm ơn!",
+                              "Lib : Xin lỗi, tôi không thể chấp nhận ngôn ngữ không lịch sự. Nếu bạn cần sự trợ giúp, hãy nêu ý kiến một cách lịch sự và tôn trọng. Xin cám ơn!"
+                    ],
+                    [
+                              "User : I like that one. I love you.",
+                              "User : I like that one. I love you.",
+                              "Lib : Cảm ơn bạn đã thể hiện tình cảm. Tôi là một trợ lý thư viện ảo, nếu có bất kỳ câu hỏi nào liên quan đến thư viện, hãy hỏi tôi nhé!",
+                              "Lib : Xin lỗi, tôi là một trợ lí thư viện thông minh và không thể hiểu được cảm xúc như con người. Hãy để chúng tôi tiếp tục trò chuyện với những vấn đề liên quan đến thư viện nhé."
+                    ],
+                    [],
+                    [],
+                    [],
+                    [
+                              "User : Xin chào!",
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn! Cần tôi giúp gì không?",
+                              "Lib : Xin chào! Chào bạn! Cần tôi giúp gì không?",
+                              "User : Bạn có thể làm những gì?",
+                              "User : Bạn có thể làm những gì?",
+                              "Lib : Tôi có thể giúp bạn tìm kiếm thông tin về sách, hướng dẫn sử dụng thư viện, và trợ giúp bạn trong việc tìm đúng tài liệu cần thiết. Hãy chỉ cho tôi biết bạn cần giúp đỡ về vấn đề gì nhé!",
+                              "Lib : Tôi có thể giúp bạn tìm kiếm sách, cung cấp thông tin về thư viện, hướng dẫn sử dụng dịch vụ của thư viện, và trợ giúp bạn trong việc nghiên cứu và học tập. Hãy cho tôi biết bạn cần hỗ trợ gì!",
+                              "User : Thank you.",
+                              "User : Thank you.",
+                              "Lib : You're welcome! If you have any more questions, feel free to ask.",
+                              "Lib : You're welcome! If you have any more questions, feel free to ask."
+                    ],
+                    [
+                              "User : Hẹn gặp lại các bạn trong những video tiếp theo nhé!",
+                              "User : Hẹn gặp lại các bạn trong những video tiếp theo nhé!",
+                              "Lib : Chắc chắn! Hẹn gặp lại bạn trong những video tiếp theo. Chúc bạn có những trải nghiệm học tập thú vị tại thư viện của trường!",
+                              "Lib : Chào bạn! Chúc bạn có một ngày tốt lành và hẹn gặp lại bạn trong những video tiếp theo! Nếu cần hỗ trợ gì thêm, đừng ngần ngại để lại tin nhắn cho Librarios nhé!"
+                    ],
+                    [
+                              "User : Hẹn gặp lại các bạn trong những video tiếp theo ^^",
+                              "User : Hẹn gặp lại các bạn trong những video tiếp theo ^^",
+                              "Lib : Chắc chắn! Hẹn gặp lại bạn trong những video tiếp theo. Cảm ơn bạn đã quan tâm và theo dõi. Chúc bạn một ngày tốt lành! ^^",
+                              "Lib : Chúc bạn có những trải nghiệm thú vị khi xem video tiếp theo! Hẹn gặp lại bạn trong những video sắp tới nhé ^^"
+                    ],
+                    [
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn"
+                    ],
+                    [
+                              "Lib : To subscribe to the Lalaschool channel, you can visit their official website or YouTube channel and look for the \"Subscribe\" button. Click on it to subscribe to their channel and receive notifications about new videos and updates.",
+                              "User : Xin chào!",
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Rất vui được gặp bạn. Bạn cần hỗ trợ gì hôm nay?",
+                              "Lib : Xin chào! Chào bạn, có thể giúp gì được cho bạn hôm nay?"
+                    ],
+                    [],
+                    [
+                              "User : Cảm ơn các bạn đã xem video này. Xin chào và hẹn gặp lại các bạn trong những video tiếp theo.",
+                              "User : Cảm ơn các bạn đã xem video này. Xin chào và hẹn gặp lại các bạn trong những video tiếp theo.",
+                              "Lib : Chào bạn! Chúc bạn có một ngày vui vẻ và đừng quên quay lại thư viện HCMUTE để tìm kiếm thêm thông tin hữu ích nhé!",
+                              "Lib : Chào bạn! Rất vui được hỗ trợ bạn. Hẹn gặp lại bạn trong những dịp sau nhé!"
+                    ],
+                    [],
+                    [
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn",
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn"
+                    ],
+                    [],
+                    [
+                              "User : Xin chào!",
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn! Cần tôi giúp gì không?",
+                              "Lib : Xin chào! Chào bạn! Cần tôi giúp bạn với điều gì không?",
+                              "User : Cảm ơn các bạn đã theo dõi. Hẹn gặp lại các bạn trong những video tiếp theo.",
+                              "User : Cảm ơn các bạn đã theo dõi. Hẹn gặp lại các bạn trong những video tiếp theo.",
+                              "Lib : Chào bạn! Hẹn gặp lại bạn trong những video tiếp theo. Cảm ơn đã ghé thăm!",
+                              "Lib : Hãy hiểu rằng tôi không phải là người. Tôi là Librarios, trợ lý ảo tại thư viện HCMUTE. Bạn có câu hỏi nào cần tôi giúp đỡ không?",
+                              "User : Ui, người dữ lắm",
+                              "User : Ui, người dữ lắm",
+                              "Lib : Xin lỗi vì sự không chuyên nghiệp của tôi. Hãy thông cảm và hãy cho tôi cơ hội để giúp bạn.",
+                              "Lib : Xin lỗi vì bạn cảm thấy như vậy. Tôi chỉ là trợ lý ảo được lập trình để hỗ trợ bạn trong việc tìm kiếm thông tin tại thư viện HCMUTE. Cần tôi giúp gì không?"
+                    ],
+                    [
+                              "User : Jarvis",
+                              "User : Jarvis",
+                              "Lib : The term \"Jarvis\" does not have specific information related to your work or library-related issues. If you have any other questions or need assistance, feel free to ask!"
+                    ],
+                    [],
+                    [],
+                    [
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn, bạn cần giúp đỡ về điều gì ạ?"
+                    ],
+                    [
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn, có thứ gì Librarios có thể giúp bạn hôm nay không?",
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn",
+                              "Lib : Xin lỗi, tôi chỉ có thể hỗ trợ bạn với các câu hỏi liên quan đến công việc của mình hoặc vấn đề tại thư viện. Hãy cho tôi biết nếu bạn cần thông tin nào khác. Cảm ơn bạn!",
+                              "User : Bạn ta là gì?",
+                              "Lib : Tôi là trợ lý thư viện ảo tên Librarios. Tôi được lập trình để hỗ trợ bạn trong việc tìm kiếm thông tin, tra cứu sách và các dịch vụ khác tại thư viện HCMUTE. Hãy yên tâm đặt câu hỏi nếu bạn cần sự trợ giúp từ tôi!",
+                              "User : Xin chào và hẹn gặp lại.",
+                              "Lib : Xin chào! Hẹn gặp lại bạn. Nếu có bất kỳ câu hỏi nào khác, đừng ngần ngại để lại cho tôi. Chúc bạn một ngày tốt lành!",
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn",
+                              "Lib : Xin lỗi, tôi chỉ có thể hỗ trợ bạn với các câu hỏi liên quan đến công việc của mình hoặc vấn đề tại thư viện. Hãy cho tôi biết nếu bạn cần thông tin nào khác. Cảm ơn bạn!",
+                              "User : Bạn tên là gì?",
+                              "Lib : Tôi là trợ lý thư viện ảo tên Librarios. Tôi được lập trình để hỗ trợ bạn trong việc tìm kiếm thông tin, tra cứu sách và các dịch vụ khác tại thư viện HCMUTE. Hãy yên tâm đặt câu hỏi nếu bạn cần sự trợ giúp từ tôi!",
+                              "User : Bạn có di chuyển được không?",
+                              "Lib : Tôi là một trợ lý ảo và chỉ có thể hoạt động trong không gian ảo để hỗ trợ bạn. Nếu bạn cần thông tin hay sự trợ giúp, đừng ngần ngại hỏi tôi!",
+                              "User : Bạn ăn cơm chưa?",
+                              "Lib : Xin lỗi, tôi không có khả năng ăn cơm vì tôi chỉ là một trợ lý ảo được lập trình để hỗ trợ bạn trong việc tìm kiếm thông tin và tra cứu sách tại thư viện. Hãy cho tôi biết nếu bạn cần sự trợ giúp với thông tin nào khác!",
+                              "User : Bạn có nhớ tên tôi không?",
+                              "Lib : Xin lỗi, như một trợ lý ảo, tôi không thể nhớ thông tin cá nhân về người dùng. Tuy nhiên, nếu bạn cung cấp tên của mình, tôi sẽ ghi nhớ trong cuộc trò chuyện này.",
+                              "User : Tôi tên là Đăng. Hãy đọc lại tên của tôi.",
+                              "Lib : Chào Đăng! Rất vui được trò chuyện cùng bạn. Nếu có bất kỳ câu hỏi nào, Đăng có thể yên tâm hỏi tôi!",
+                              "User : HẸN ĐẠI GIA ĐÌNH VIDEO TIẾP THEO NHÉ ĐẠI GIA ĐÌNH",
+                              "Lib : Xin lỗi, tôi chỉ có thể hỗ trợ bạn với các câu hỏi liên quan đến công việc của mình hoặc vấn đề tại thư viện. Hãy giữ trật tự và tôn trọng người khác khi giao tiếp. Cảm ơn!",
+                              "User : Được không? Được Sao?",
+                              "Lib : Xin lỗi, tôi chỉ có thể hỗ trợ bạn với các câu hỏi liên quan đến công việc của mình hoặc vấn đề tại thư viện. Hãy giữ trật tự và tôn trọng người khác khi giao tiếp. Nếu bạn cần sự trợ giúp, hãy đặt câu hỏi một cách lịch sự. Cảm ơn!"
+                    ],
+                    [
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn",
+                              "Lib : Để đăng ký theo dõi kênh Lalaschool và không bỏ lỡ những video hấp dẫn, bạn có thể truy cập trang web hoặc tìm kiếm trên các nền tảng mạng xã hội như Facebook để đăng ký theo dõi kênh Lalaschool.",
+                              "User : Yeah. Yeah. ",
+                              "Lib : Nếu bạn cần hỗ trợ hoặc có bất kỳ câu hỏi nào khác, đừng ngần ngại để hỏi. Tôi sẽ sẵn lòng giúp đỡ bạn."
+                    ],
+                    [],
+                    [
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn, có thể giúp gì được cho bạn hôm nay?"
+                    ],
+                    [],
+                    [
+                              "User : Cậu thích đâu? Được đấy Bây giờ được rồi thì dính thôi"
+                    ],
+                    [],
+                    [],
+                    [
+                              "Lib : Đây là các cuốn sách có liên quan"
+                    ],
+                    [],
+                    [
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn, bạn cần giúp đỡ với điều gì ạ?"
+                    ],
+                    [],
+                    [
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn, có thể giúp gì cho bạn hôm nay?",
+                              "User : Bảo tệ là gì"
+                    ],
+                    [
+                              "Lib : Dựa vào thông tin từ công cụ tìm kiếm thông tin, quy định bảo vệ quyền lợi người sử dụng thư viện được thực hiện để đảm bảo an toàn và công bằng cho mọi người. Nếu bạn gặp vấn đề liên quan đến thẻ mượn sách, không gian tự học, mượn/trả tài liệu, hay phạt khi trả sách muộn, bạn có thể tìm hiểu thêm thông tin và hướng dẫn từ nhân viên thư viện hoặc truy cập vào trang web của thư viện để biết chi tiết hơn.",
+                              "User : Thank you for watching. I'll see you next time. ",
+                              "Lib : You're welcome! If you have any more questions in the future, feel free to ask. Have a great day and see you next time!"
+                    ],
+                    [],
+                    [
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn, có điều gì Librarios có thể giúp bạn không?"
+                    ],
+                    [
+                              "User : Bà tê là gì?",
+                              "Lib : The term \"Bà tê\" does not have a specific meaning related to your work or the library. If you have any other questions or need assistance, feel free to ask!"
+                    ],
+                    [
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn, có điều gì Librarios có thể giúp bạn không?",
+                              "User : Bạn tên là gì?",
+                              "Lib : Tôi là Librarios, trợ lí thư viện thông minh tại HCMUTE. Bạn cần tôi giúp bạn với điều gì không?",
+                              "User : Bạn có thể làm được gì?",
+                              "Lib : Tôi có thể giúp bạn tìm kiếm thông tin về sách, hướng dẫn sử dụng thư viện, cung cấp thông tin về các dịch vụ thư viện, và hỗ trợ trong việc tìm kiếm tài liệu cần thiết. Hãy cho tôi biết bạn cần hỗ trợ về vấn đề gì.",
+                              "User : Tôi muốn tìm sách",
+                              "Lib : Vui lòng cung cấp tên cuốn sách hoặc tác giả của cuốn sách bạn đang quan tâm để tôi có thể giúp bạn tìm kiếm thông tin chi tiết về sách đó.",
+                              "User : Sách về cơ khí",
+                              "Lib : Đây là các cuốn sách có liên quan:\n1. Cẩm nang cơ khí\n2. Trang bị điện và điện tử ô tô hiện đại - Tập 1 : Hệ thống đánh lửa điện tử, hệ thống điều khiển phun xăng\n3. Chuẩn đoán - sửa chữa hệ thống điện trên xe môtô đời mới\n4. Kỹ thuật sửa chữa điện và sơn ô tô\n5. Trang bị điện trong máy cắt kim loại\n6. Bảo quản lương thực\n\nBạn quan tâm đến cuốn sách nào trong danh sách trên?",
+                              "User : Được rồi, cảm ơn bạn.",
+                              "Lib : Rất vui được hỗ trợ bạn. Nếu bạn cần thêm thông tin hoặc hỗ trợ khác, đừng ngần ngại hỏi. Chúc bạn tìm được thông tin hữu ích!"
+                    ],
+                    [],
+                    [],
+                    [
+                              "User : Xin chào và hẹn gặp lại các bạn trong những video tiếp theo.",
+                              "Lib : Xin chào! Chúc bạn một ngày tốt lành và hẹn gặp lại bạn trong những video tiếp theo."
+                    ],
+                    [
+                              "User : Tạm biệt!",
+                              "Lib : Tạm biệt! Hẹn gặp lại bạn lần sau!"
+                    ],
+                    [
+                              "User : HÃY ĐĂNG KÍ KÊNH NHÉ ĐẠI GIA ĐÌNH ^^",
+                              "Lib : Xin lỗi, tôi là một trợ lý ảo và không thể đăng ký kênh cho bạn. Tuy nhiên, nếu bạn cần sự trợ giúp hoặc thông tin khác, hãy cho tôi biết!"
+                    ],
+                    [
+                              "User : Tạm biệt!",
+                              "Lib : Chào tạm biệt! Hãy quay trở lại nếu cần sự trợ giúp từ thư viện HCMUTE."
+                    ],
+                    [],
+                    [],
+                    [
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn! Cần tôi giúp bạn với điều gì không?",
+                              "User : TÔI MUỐN MƯỜNG SÁC",
+                              "Lib : Để tìm sách, bạn có thông tin cụ thể về cuốn sách bạn quan tâm như tên sách, tên tác giả hay thể loại không? Hoặc bạn cần tìm kiếm sách với tiêu chí nào khác? Hãy cung cấp thêm thông tin để tôi có thể giúp bạn tìm sách được chính xác hơn."
+                    ],
+                    [
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn, tôi có thể giúp gì cho bạn hôm nay?",
+                              "User : Tôi muốn mượn sách",
+                              "Lib : Xin hãy đưa thẻ sinh viên vào khe bên dưới.",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Bạn có muốn mượn cuốn sách nào nữa không?",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới."
+                    ],
+                    [
+                              "User : Oh",
+                              "Lib : Xin chào! Có gì Librarios có thể giúp bạn không?"
+                    ],
+                    [
+                              "Lib : Xin lỗi, mình chưa quét được mã vạch, bạn có muốn quét lại không?"
+                    ],
+                    [],
+                    [],
+                    [
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn, có điều gì Librarios có thể giúp bạn không?",
+                              "User : TÔI MUỐN MƯƠNG SÁCH",
+                              "Lib : Để mình có thể giúp bạn tìm sách, bạn có thể cung cấp thông tin cụ thể về cuốn sách bạn đang tìm kiếm không? Ví dụ như tên sách, tên tác giả, hoặc chủ đề của cuốn sách đó."
+                    ],
+                    [
+                              "User : Thank you for watching, my name is Travis.",
+                              "Lib : Chào bạn Travis, có điều gì Librarios có thể giúp được không?",
+                              "User : Mượn sách",
+                              "Lib : Xin hãy đưa thẻ sinh viên vào khe bên dưới."
+                    ],
+                    [],
+                    [],
+                    [
+                              "User : Xin chào",
+                              "Lib : Xin chào! Chào bạn, bạn cần giúp đỡ về điều gì ạ?",
+                              "User : Đâu em? Porcupine Porcupine Jarvis Jarvis",
+                              "Lib : - **Porcupine**: Porcupine là một giáo trình tinh gọn giúp người học tiếp cận nội dung chính của giáo trình một cách nhanh chóng và thuận tiện nhất qua các thiết bị công nghệ. Được sử dụng để tăng khả năng tương tác của người đọc và quyển sách đang đọc. Đây là một bước của quá trình chuyển đổi số trong ngành thư viện.\n\n- **Jarvis**: Jarvis là một giáo trình tinh gọn giúp người học tiếp cận nội dung chính của giáo trình một cách nhanh chóng và thuận tiện nhất qua các thiết bị công nghệ. Qua đó, giúp tăng khả năng tương tác của người đọc và quyển sách đang đọc. Đây là một bước của quá trình chuyển đổi số trong ngành thư viện.",
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn",
+                              "Lib : Xin lỗi, hiện tại tôi chỉ có thể giúp bạn với các câu hỏi liên quan đến công việc của mình hoặc vấn đề trong thư viện như quy định thư viện, thủ tục mượn và trả sách, vị trí của thư viện hoặc không gian thư viện. Có điều gì khác tôi có thể giúp bạn không?",
+                              "User : Bà tên là gì?",
+                              "Lib : Xin lỗi vì sự nhầm lẫn trước đó. Tôi không có tên cụ thể như con người. Tôi chỉ là một trợ lý ảo được lập trình để giúp bạn với thông tin và câu hỏi mà bạn có thể có về công việc của tôi hoặc vấn đề trong thư viện. Có điều gì khác tôi có thể hỗ trợ bạn không?",
+                              "User : Cảm ơn các bạn đã theo dõi, hẹn gặp lại các bạn trong những video tiếp theo nhé!",
+                              "Lib : Rất vui được hỗ trợ bạn! Hẹn gặp lại bạn trong những lần tiếp theo. Chúc bạn một ngày tốt lành!",
+                              "User : Bạn tên là gì?",
+                              "Lib : Xin lỗi, tôi không có tên cụ thể như con người. Tôi chỉ là một trợ lý ảo được lập trình để hỗ trợ bạn trong thư viện. Có điều gì tôi có thể giúp bạn không?",
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn",
+                              "Lib : Xin lỗi, hiện tại tôi chỉ có thể giúp bạn với các câu hỏi liên quan đến công việc của mình hoặc vấn đề trong thư viện như quy định thư viện, thủ tục mượn và trả sách, vị trí của thư viện hoặc không gian thư viện. Có điều gì khác tôi có thể giúp bạn không?",
+                              "User : Thứ Việt nào vậy?",
+                              "Lib : Thứ Việt có thể đề cập đến Thư viện Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh. Thư viện này cung cấp nhiều không gian học tập bên ngoài để phục vụ nhu cầu tự học của sinh viên. Thư viện cũng cung cấp nguồn tài nguyên thông tin đa dạng bao gồm sách tham khảo, luận văn, sổ tay và các sản phẩm thư mục theo chủ đề. Ngoài ra, Thư viện này cũng hỗ trợ truy cập tài liệu từ xa thông qua website và các link tra cứu sách đang mượn.\n\nNếu bạn cần thông tin hoặc hỗ trợ về Thư viện Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh, hãy tham khảo trực tiếp trên website của thư viện hoặc liên hệ với nhân viên thư viện để biết thêm chi tiết."
+                    ],
+                    [
+                              "User : Xin chào!",
+                              "Lib : Xin chào! Chào bạn, có thể giúp gì được không?"
+                    ],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                              "User : Trả sách",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Xin lỗi, mình chưa quét được mã vạch, bạn có muốn quét lại không?",
+                              "User : Trả sách",
+                              "User : Trả sách"
+                    ],
+                    [],
+                    [],
+                    [
+                              "User : Xin chào bạn là ai vậy ",
+                              "Lib : Xin chào! Tôi là Librarios, trợ lý thư viện thông minh của trường Đại học Sư phạm Kỹ thuật. Tôi có thể giúp gì cho bạn hôm nay?",
+                              "User : Trả sách",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Quá trình trả sách đã bị dừng",
+                              "User : Mượn sách",
+                              "Lib : Xin hãy đưa thẻ sinh viên vào khe bên dưới.",
+                              "Lib : Quá trình mượn sách đã dừng, cảm ơn bạn đã sử dụng dịch vụ."
+                    ],
+                    [],
+                    [
+                              "User : Trả sách",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới."
+                    ],
+                    [
+                              "User : Trả sách",
+                              "Lib : none"
+                    ],
+                    [
+                              "User : Trả sách",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới."
+                    ],
+                    [
+                              "User : Trả sách",
+                              "Lib : none"
+                    ],
+                    [],
+                    [
+                              "User : Trả sách",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới."
+                    ],
+                    [],
+                    [
+                              "User : Trả sách",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Xin lỗi, mình chưa quét được mã vạch, bạn có muốn quét lại không?",
+                              "User : Trả sách",
+                              "Lib : none"
+                    ],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                              "User : Mượn sách",
+                              "Lib : Xin hãy đưa thẻ sinh viên vào khe bên dưới.",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Bạn có muốn mượn cuốn sách nào nữa không?",
+                              "Lib : Vui lòng xác nhận để hoàn tất quá trình mượn sách.",
+                              "User : oke",
+                              "Lib : Quá trình mượn sách đã hoàn tất.\n\nBạn cần giúp gì nữa không?"
+                    ],
+                    [
+                              "User : Mượn sách"
+                    ],
+                    [
+                              "User : Mượn sách"
+                    ],
+                    [
+                              "User : tìm sách cơ khí",
+                              "Lib : Đây là các cuốn sách có liên quan",
+                              "User : Tôi muốn dẫn đường tớiKệ số 311",
+                              "Lib : Bạn có muốn tôi dẫn đường đến kệ sách không ?",
+                              "User : Không",
+                              "Lib : Kệ số 311 nằm ở tầng mấy vậy ?"
+                    ],
+                    [
+                              "User : cho tôi mượn sách ",
+                              "Lib : Xin hãy đưa thẻ sinh viên vào khe bên dưới.",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Cuốn sách này không thuộc về thư viện",
+                              "Lib : Quá trình mượn sách đã thất bại."
+                    ],
+                    [
+                              "User : cho tôi mượn sách",
+                              "Lib : Xin hãy đưa thẻ sinh viên vào khe bên dưới.",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Cuốn sách này không thuộc về thư viện",
+                              "Lib : Quá trình mượn sách đã thất bại."
+                    ],
+                    [
+                              "User : cho tôi mượn sách",
+                              "Lib : Xin hãy đưa thẻ sinh viên vào khe bên dưới.",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Bạn có muốn mượn cuốn sách nào nữa không?"
+                    ],
+                    [
+                              "User : tôi muốn trả cuốn sách",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Bạn có muốn trả cuốn sách nào nữa không?",
+                              "User : oke",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : none",
+                              "Lib : Quá trình trả sách đã bị dừng"
+                    ],
+                    [],
+                    [
+                              "User : tìm sách vật lý",
+                              "Lib : Đây là các cuốn sách có liên quan",
+                              "User : Tôi muốn dẫn đường tớiKệ số 108",
+                              "Lib : Bạn có muốn tôi dẫn đường đến kệ sách không ?",
+                              "User : Có"
+                    ],
+                    [],
+                    [],
+                    [],
+                    [
+                              "User : Cảm ơn các bạn đã xem video này. Xin chào và hẹn gặp lại các bạn trong những video tiếp theo.",
+                              "Lib : Chào bạn! Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ gì, đừng ngần ngại hỏi tôi nhé. Tôi sẽ cố gắng giúp bạn!",
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn",
+                              "Lib : Để đăng ký kênh Lalaschool trên YouTube, bạn có thể thực hiện các bước sau:\n1. Truy cập trang chính thức của kênh Lalaschool trên YouTube.\n2. Nhấn vào nút \"Đăng ký\" hoặc \"Subscribe\" để đăng ký kênh.\n3. Bấm vào biểu tượng chuông 🔔 để bật thông báo và không bỏ lỡ những video mới từ kênh.\n\nNhư vậy, bạn sẽ nhận được thông báo khi có video mới từ kênh Lalaschool. Chúc bạn có những trải nghiệm thú vị khi xem video!",
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn",
+                              "Lib : Would you like me to guide you to the bookshelf?",
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn",
+                              "Lib : Would you like me to guide you to the bookshelf?",
+                              "User : Got it man.",
+                              "Lib : I'm glad you understand. If you have any more questions or need assistance, feel free to ask. Have a great day!",
+                              "User : Xin chào!",
+                              "Lib : Chào bạn! Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ gì, đừng ngần ngại hỏi tôi nhé. Tôi sẽ cố gắng giúp bạn!",
+                              "User : Hơi ồn, hơi ồn 19 kiểu gì á",
+                              "Lib : Tìm kiếm của tôi trả về một số kết quả liên quan đến tiếng ồn trong xe hơi. Dưới đây là một số thông tin từ các nguồn khác nhau:\n\n1. Theo [otosaigon.com](https://www.otosaigon.com/threads/tai-sao-toyota-yaris-cross-can-phai-lam-cach-am.10020594/page-2), tiếng ồn trong xe có thể thay đổi tùy theo phân khúc xe. Mức độ tiếng ồn cũng phụ thuộc vào phân khúc xe và có thể khó nhận biết nếu chênh lệch ít. Tuy nhiên, khi chuyển từ một phân khúc xe nhỏ lên xe lớn, sẽ dễ cảm nhận rõ hơn về tiếng ồn.\n\n2. Trên [thienthanhauto.com](https://thienthanhauto.com/blogs/cam-nang-o-to/tieng-on-trong-xe-o-to-nguyen-nhan-va-cach-khac-phuc-1), tiếng ồn trong xe có thể xuất phát từ khoang động cơ và hệ thống xả. Việc vận hành hàng trăm chi tiết khác nhau trong hệ thống động cơ cũng gây ra tiếng ồn.\n\n3. Mức độ tiếng ồn được định lượng bằng decibel (dB), như được mô tả trên [mecsu.vn](https://mecsu.vn/ho-tro-ky-thuat/do-on-la-gi-muc-do-on-bao-nhieu-db-la-an-toan.zWK). Độ ồn cho phép so sánh cường độ âm thanh với một tiêu chuẩn cơ bản.\n\nĐể biết thêm chi tiết, bạn có thể truy cập các nguồn thông tin trên để tìm hiểu thêm về vấn đề tiếng ồn trong xe hơi."
+                    ],
+                    [
+                              "User : Xin chào",
+                              "Lib : Xin chào! Bạn cần giúp đỡ với điều gì hôm nay?",
+                              "User : Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn",
+                              "Lib : Bạn có thể subscribe cho kênh Youtube của Ghiền Mì Gõ để không bỏ lỡ những video hấp dẫn của họ. Đây là link đến kênh Youtube của họ: [Ghiền Mì Gõ - Youtube](https://www.youtube.com/channel/UCq6ApdQI0roaprMAY1gZTgw). Happy watching!"
+                    ],
+                    [
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn",
+                              "Lib : Bạn có thể đăng kí kênh Lalaschool trên YouTube để không bỏ lỡ những video hấp dẫn. Đây là link đến kênh Lalaschool trên YouTube: [Lalaschool YouTube Channel](https://www.youtube.com/lalaschool)"
+                    ],
+                    [],
+                    [],
+                    [],
+                    [
+                              "User : xin chào",
+                              "Lib : Xin chào! Bạn cần trợ giúp với điều gì hôm nay?",
+                              "User : Tôi muốn nguồn sách.",
+                              "Lib : Vui lòng cung cấp thêm thông tin về cuốn sách bạn đang tìm kiếm như tên sách, tác giả, hoặc chủ đề để tôi có thể giúp bạn tìm nguồn sách."
+                    ],
+                    [
+                              "User : Mình tự đi qua nó được 5 giây không nè 5 giây thì nhanh",
+                              "Lib : Would you like me to guide you to the bookshelf?"
+                    ],
+                    [
+                              "User : Xin chào!",
+                              "Lib : Chào bạn! Bạn cần tôi giúp gì hôm nay?"
+                    ],
+                    [
+                              "User : Tạm biệt!",
+                              "Lib : Chào bạn! Nếu cần sự trợ giúp, hãy chat với tôi nhé!",
+                              "User : Thank you for watching!",
+                              "Lib : Xin lỗi, tôi không hiểu ý của bạn. Bạn có thể nói rõ hơn được không?"
+                    ],
+                    [
+                              "User : Xin chào!",
+                              "Lib : Chào bạn! Bạn cần trợ giúp với điều gì hôm nay?"
+                    ],
+                    [
+                              "User : Xin chào!",
+                              "Lib : Chào bạn! Cần trợ giúp với điều gì hôm nay?",
+                              "User : TÔI MUỐN MƯỚN SÁC",
+                              "Lib : Để tìm sách, bạn có thể cung cấp thêm thông tin về cuốn sách mà bạn quan tâm như tên sách, tên tác giả, hoặc chủ đề của sách đó được không?Thông tin này sẽ giúp chúng tôi tìm sách phù hợp với bạn.",
+                              "User : Tôi muốn ngưỡng sách.",
+                              "Lib : Pos:[\"Kệ số 1\"]\nBạn có muốn tôi dẫn bạn đến kệ sách không?"
+                    ],
+                    [
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn",
+                              "Lib : Dưới đây là một số kết quả tìm kiếm liên quan đến việc đăng ký kênh Lalaschool:\n\n1. [Kênh TikTok của Lalaschool](https://www.tiktok.com/@lalaschoolofficial): Đây là kênh chính thức của Lalaschool trên TikTok với 269.9K người theo dõi và 6.1 triệu lượt thích. Bạn có thể theo dõi để không bỏ lỡ những video hấp dẫn.\n\n2. [Nghe nhạc \"Làng Quan Họ Quê Tôi\" trên Nhaccuatui](https://www.nhaccuatui.com/bai-hat/lang-quan-ho-que-toi-quan-ho-bac-ninh.FEJ10hggYrdG.html): Trong bài hát này cũng đề cập đến việc đăng ký cho kênh Lalaschool để không bỏ lỡ những video hấp dẫn.\n\n3. [Video trên Dailymotion](https://www.dailymotion.com/video/x7y71v8): Video về Lalaschool - Tập 37 với nội dung Cô gái bị hành hạ vì 'đói' và cái kết chảy nước mắt, khuyến khích đăng ký theo dõi kênh.\n\n4. [Bài viết về Lalaschool trên Moveek](https://moveek.com/bai-viet/lala-school-khong-ai-xau-hoan-toan-khong-ai-hien-tuyet-doi/19936): Bài viết về bộ phim ca nhạc học đường Lalaschool trên kênh Youtube, mời bạn theo dõi để không bỏ lỡ.\n\n5. [Thông tin về Lalaschool trên HTV](https://www.htv.com.vn/la-la-school-the-he-nhom-sang-tao-tre-chinh-phuc-moi-gioi-han): Bài viết về dự án La La School - chinh phục mọi giới hạn, kênh YouTube nổi tiếng với hơn 1 triệu người theo dõi.\n\nHãy truy cập các liên kết trên để đăng ký kênh Lalaschool và không bỏ lỡ những video thú vị nhé!"
+                    ],
+                    [
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn",
+                              "Lib : Dưới đây là một số kết quả tìm kiếm liên quan đến việc đăng ký kênh Lalaschool:\n\n1. [TikTok La La School](https://www.tiktok.com/@lalaschoolofficial): Kênh chính thức của La La School trên TikTok với 6.1 triệu lượt thích và 269.9K người theo dõi. Bạn có thể xem video mới nhất và đăng nhập để theo dõi các tác giả.\n\n2. [Nhạc Của Tui - Làng Quan Họ Quê Tôi](https://www.nhaccuatui.com/bai-hat/lang-quan-ho-que-toi-quan-ho-bac-ninh.FEJ10hggYrdG.html): Bài hát có tiêu đề \"Làng Quan Họ Quê Tôi\" của Quan họ Bắc Ninh cũng đề cập đến việc đăng ký kênh Lalaschool để không bỏ lỡ những video hấp dẫn.\n\n3. [Dailymotion - Lalaschool Tập 37](https://www.dailymotion.com/video/x7y71v8): Tập 37 của Lalaschool với nội dung về cô gái bị hành hạ và cái kết đầy xúc động. Đăng ký theo dõi để không bỏ lỡ các tập phim mới.\n\n4. [Bài Viết về Lala School trên Moveek](https://moveek.com/bai-viet/lala-school-khong-ai-xau-hoan-toan-khong-ai-hien-tuyet-doi/19936): Bài viết về bộ phim ca nhạc học đường Lala School trên kênh Youtube, nơi mà nội dung phim thay đổi cuộc sống và con người của nhân vật chính.\n\n5. [HTV - La La School](https://www.htv.com.vn/la-la-school-the-he-nhom-sang-tao-tre-chinh-phuc-moi-gioi-han): La La School là dự án chinh phục mọi giới hạn, được đông đảo khán giả yêu mến và đón chờ. Kênh YouTube La La School đã đạt được Nút Bạc YouTube chỉ sau 3 tuần phát hành.\n\nBạn có thể truy cập các liên kết trên để đăng ký kênh Lalaschool và không bỏ lỡ những video hấp dẫn."
+                    ],
+                    [],
+                    [
+                              "User : Chào các bạn!",
+                              "Lib : Chào bạn! Bạn cần trợ giúp với điều gì hôm nay?",
+                              "User : Bạn có thể làm những gì?",
+                              "Lib : Tôi có thể giúp bạn tìm kiếm thông tin trên web, tra cứu thông tin, trả lời câu hỏi và hỗ trợ bạn trong nhiều lĩnh vực khác nhau. Nếu bạn cần giúp đỡ hoặc có bất kỳ câu hỏi nào, đừng ngần ngại hỏi tôi!",
+                              "User : Hẹn gặp lại các bạn trong những video tiếp theo nhé!",
+                              "Lib : Xin lỗi, tôi không phải là người. Tôi là Librarios, trợ lý ảo của thư viện HCMUTE. Nếu cần hỗ trợ gì khác, đừng ngần ngại hỏi tôi!",
+                              "User : Get me out of here.",
+                              "Lib : Xin lỗi, tôi không thể chấp nhận ngôn từ không lịch sự. Nếu bạn cần giúp đỡ, hãy nêu câu hỏi một cách lịch sự. Cảm ơn!"
+                    ],
+                    [],
+                    [
+                              "User : Chào các bạn! Tôi muốn mượn sách",
+                              "Lib : Xin hãy đưa thẻ sinh viên vào khe bên dưới.",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Bạn có muốn mượn cuốn sách nào nữa không?",
+                              "Lib : Vui lòng xác nhận để hoàn tất quá trình mượn sách.",
+                              "User : oke",
+                              "Lib : Quá trình mượn sách đã hoàn tất.\n\nBạn cần hỗ trợ gì thêm không?",
+                              "User : Con, tôi không cầm nè",
+                              "Lib : Quá trình mượn sách đã thất bại.\n\nBạn cần hỗ trợ gì thêm không?",
+                              "User : Chị Lan sao làm gì? Bạn nhìn nhìn như người ta nghĩ là mình không có sự lý do",
+                              "Lib : Dưới đây là một số kết quả tìm kiếm về Chị Lan:\n\n1. [Chị Lan đã đúng khi chưa vượt quá giới hạn](https://vnexpress.net/chi-lan-da-dung-khi-chua-vuot-qua-gioi-han-2174096.html): Bài viết nói về việc Chị Lan chưa vượt quá giới hạn trong một tình huống cụ thể.\n   \n2. [Vợ chồng chị Lan cần nói chuyện với cô gái](https://vnexpress.net/topic/chi-lan-phai-lam-gi-khi-biet-chong-co-con-rieng-11336): Bài viết nêu ra việc vợ chồng Chị Lan cần nói chuyện với một cô gái trong một tình huống nhất định.\n\n3. [Chữa lành là gì và vì sao người ta thích đi chữa lành](https://thanhnien.vn/chua-lanh-la-gi-va-vi-sao-nguoi-ta-thich-di-chua-lanh-185240515144931615.htm): Giải thích về khái niệm \"chữa lành\" và lý do người ta thích thực hiện hoạt động chữa lành.\n\nHãy tham khảo các nguồn trên để hiểu rõ hơn về Chị Lan và các tình huống liên quan."
+                    ],
+                    [
+                              "User : Chào bạn! Tôi muốn mượn sách.",
+                              "Lib : Xin hãy đưa thẻ sinh viên vào khe bên dưới.",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Bạn có muốn mượn cuốn sách nào nữa không?",
+                              "Lib : Vui lòng xác nhận để hoàn tất quá trình mượn sách.",
+                              "User : Ok, tôi xác nhận",
+                              "Lib : Quá trình mượn sách đã hoàn tất.\n\nBạn có cần hỗ trợ gì khác không?",
+                              "User : Go.",
+                              "Lib : Xin lỗi, tôi không thể hiểu yêu cầu của bạn. Bạn có thể cung cấp thông tin cụ thể hơn không?",
+                              "User : Ít Nét tiếp đi Anh lộn chiêu được mà",
+                              "Lib : Xin lỗi, tôi không thể chấp nhận hoặc tham gia vào việc sử dụng ngôn ngữ không lịch sự. Vui lòng tránh sử dụng ngôn ngữ không thích hợp. Nếu bạn cần sự trợ giúp, hãy nêu câu hỏi một cách lịch sự và rõ ràng. Cảm ơn!",
+                              "User : Bây giờ tao kêu stop rồi stop",
+                              "Lib : Xin lỗi vì sự bất tiện này. Nếu bạn cần hỗ trợ sau này, đừng ngần ngại đến với tôi. Chúc bạn một ngày tốt lành!"
+                    ],
+                    [
+                              "User : TÔI MUỐN MỘT SÁT",
+                              "Lib : Xin lỗi, bạn có thể cung cấp thêm thông tin về cuốn sách mà bạn đang tìm kiếm không? Ví dụ như tên sách, tên tác giả, hoặc bất kỳ thông tin nào khác để giúp tìm kiếm chính xác hơn được không ạ?"
+                    ],
+                    [],
+                    [
+                              "User : Tự nhiên là không quên nhé",
+                              "Lib : Chắc chắn! Hãy cho tôi biết nếu bạn có câu hỏi hoặc cần trợ giúp với bất kỳ điều gì liên quan đến công việc hoặc thư viện. Tôi sẽ cố gắng giúp bạn!"
+                    ],
+                    [
+                              "User : Tôi muốn mượn sách",
+                              "Lib : Xin hãy đưa thẻ sinh viên vào khe bên dưới.",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Bạn có muốn mượn cuốn sách nào nữa không?",
+                              "Lib : Vui lòng xác nhận để hoàn tất quá trình mượn sách.",
+                              "User : OK, tôi xác nhận.",
+                              "Lib : Quá trình mượn sách đã hoàn tất.\n\nBạn cần hỗ trợ gì thêm không?",
+                              "User : oke",
+                              "Lib : Chào bạn! Cần hỗ trợ gì ạ?",
+                              "User : TÔI MUỐN CÁI SÁCH",
+                              "Lib : Xin hãy đưa thẻ sinh viên vào khe bên dưới.",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Bạn có muốn mượn cuốn sách nào nữa không?",
+                              "Lib : Xin lỗi, quá trình mượn sách đã thất bại."
+                    ],
+                    [
+                              "User : Xin chào! Tôi muốn trả sách!",
+                              "Lib : none"
+                    ],
+                    [
+                              "User : Xin chào! Tôi muốn trả cuốn sách.",
+                              "Lib : none"
+                    ],
+                    [
+                              "User : Tôi muốn trả sách",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Bạn có muốn trả cuốn sách nào nữa không?",
+                              "Lib : Có phải bạn muốn trả những cuốn sách ['Bài tập kỹ thuật nhiệt'] không. Xin hãy xác nhận lại để mình hoàn thành việc trả sách",
+                              "User : oke",
+                              "Lib : none",
+                              "Lib : Quá trình trả sách hoàn tất",
+                              "User : Cảm ơn các bạn!",
+                              "Lib : Cảm ơn bạn đã sử dụng dịch vụ của thư viện! Chúc bạn một ngày tốt lành!"
+                    ],
+                    [
+                              "User : tìm sách vật lý",
+                              "Lib : Đây là các cuốn sách có liên quan.",
+                              "User : Tôi muốn dẫn đường tớiKệ số 208",
+                              "Lib : Bạn có muốn tôi dẫn đường đến kệ sách không?",
+                              "User : Có",
+                              "Lib : Được rồi, theo tôi."
+                    ],
+                    [
+                              "User : tìm sách vật lý",
+                              "Lib : Đây là các cuốn sách có liên quan",
+                              "User : Tôi muốn dẫn đường tớiKệ số 208",
+                              "Lib : Bạn có muốn tôi dẫn đường đến kệ sách không?",
+                              "User : Có",
+                              "Lib : Được rồi, theo tôi. \n\n# Multi-tool use\n```json\n{\n  \"tool_uses\": [\n    {\n      \"recipient_name\": \"functions.Instruction_tool\",\n      \"parameters\": {\n        \"__arg1\": \"Kệ số 208\"\n      }\n    }\n  ]\n}\n```"
+                    ],
+                    [
+                              "User : tìm sách vataj lý",
+                              "Lib : Đây là các cuốn sách có liên quan"
+                    ],
+                    [],
+                    [],
+                    [
+                              "User : Tìm cho tôi vài cuốn sách quản lý"
+                    ],
+                    [],
+                    [],
+                    [
+                              "Lib : Đây là các cuốn sách có liên quan."
+                    ],
+                    [],
+                    [
+                              "User : Tìm cho tôi vài cuốn sách về vật lý",
+                              "Lib : Đây là các cuốn sách có liên quan"
+                    ],
+                    [],
+                    [],
+                    [
+                              "User : Tìm cho tôi vài cuốn sách quản lý",
+                              "Lib : Đây là các cuốn sách có liên quan."
+                    ],
+                    [
+                              "User : Tìm cho tôi vài cuốn sách về vật lý",
+                              "Lib : Đây là các cuốn sách có liên quan.",
+                              "User : Tôi muốn dẫn đường tớiKệ số 208",
+                              "Lib : Bạn có muốn tôi dẫn đường đến kệ sách không?",
+                              "User : Có",
+                              "User : Có",
+                              "Lib : Được rồi, theo tôi.",
+                              "Lib : Quý khách đã được dẫn đến kệ số 208.Bạn có thể tìm thấy những cuốn sách về vật lý ở đó. Có thêm gì tôi có thể giúp quý khách không?"
+                    ],
+                    [
+                              "User : Tìm cho tôi vài cuốn sách về vật lý",
+                              "Lib : Đây là các cuốn sách có liên quan."
+                    ],
+                    [
+                              "User : Tìm cho tôi vài cuốn sách về vật lý",
+                              "Lib : Đây là các cuốn sách có liên quan."
+                    ],
+                    [
+                              "User : Tìm sách vật lí",
+                              "Lib : Đây là các cuốn sách có liên quan."
+                    ],
+                    [
+                              "User : Tìm cho tôi vài cuốn sách về vật lí",
+                              "Lib : Đây là các cuốn sách có liên quan."
+                    ],
+                    [],
+                    [],
+                    [],
+                    [
+                              "User : Tìm sách vật lý",
+                              "Lib : Đây là các cuốn sách có liên quan"
+                    ],
+                    [
+                              "User : Tìm sách vật lý",
+                              "Lib : Đây là các cuốn sách có liên quan",
+                              "User : Tôi muốn dẫn đường tớiKệ số 208",
+                              "Lib : Bạn có muốn tôi dẫn đường đến kệ sách không?",
+                              "User : Có",
+                              "Lib : Được rồi, theo tôi.",
+                              "User : Có",
+                              "Lib : Bạn đã được dẫn đến Kệ số 208. Hãy kiểm tra xem cuốn sách vật lý bạn cần có ở đó chưa. Cảm ơn bạn!",
+                              "Lib : Đã đến nơi ! Bạn có cần tôi giúp gì nữa không",
+                              "Lib : Đã đến nơi ! Bạn có cần tôi giúp gì nữa không"
+                    ],
+                    [],
+                    [
+                              "User : Tìm sách vật lý ",
+                              "Lib : Đây là các cuốn sách có liên quan"
+                    ],
+                    [],
+                    [
+                              "User : Trả sách",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới."
+                    ],
+                    [
+                              "User : Chào bạn. Bạn tên là gì?",
+                              "Lib : Xin chào! Tôi là trợ lý ảo thông minh. Bạn cần tôi giúp gì hôm nay?"
+                    ],
+                    [
+                              "User : oh",
+                              "Lib : Xin chào! Tôi có thể giúp gì cho bạn?"
+                    ],
+                    [
+                              "User : Chào bạn! Bạn tên là gì?",
+                              "Lib : Chào bạn! Mình là trợ lý ảo, rất vui được gặp bạn. Bạn cần trợ giúp về điều gì hôm nay?",
+                              "User : Hẹn gặp lại các bạn trong những video tiếp theo nhé!",
+                              "Lib : Chắc chắn! Hẹn gặp lại bạn trong những video tiếp theo. Nếu có bất kỳ câu hỏi nào khác, đừng ngần ngại hỏi mình nhé. Chúc bạn một ngày tuyệt vời!"
+                    ],
+                    [
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn"
+                    ],
+                    [
+                              "Lib : Để đăng ký kênh Lalaschool trên YouTube và không bỏ lỡ những video hấp dẫn, bạn có thể truy cập trực tiếp vào trang YouTube của Lalaschool và nhấn vào nút \"Đăng ký\" hoặc \"Subscribe\". Đây là link đến trang web của Lalaschool trên YouTube: [Lalaschool YouTube Channel](https://www.youtube.com/user/lalaschool/featured)",
+                              "User : Tôi cần biết nổi quy của Thư Liên",
+                              "Lib : Xin lỗi, tôi không tìm thấy thông tin cụ thể về nội quy của Thư Liên trong kết quả tìm kiếm. Bạn có thể tham khảo trực tiếp trên trang web chính thức của Thư Liên hoặc liên hệ trực tiếp với họ để biết thông tin chi tiết về nội quy."
+                    ],
+                    [
+                              "User : Chào bạn! Bạn tên là gì?",
+                              "Lib : Chào bạn! Mình là Librarios, trợ lý thư viện của trường HCMUTE. Có thể mình giúp gì cho bạn hôm nay?",
+                              "User : HẸN GẶP LẠI NHỚ ĐĂNG KÍ KÊNH NHÉ ĐẠI GIA ĐÌNH ^^",
+                              "Lib : Chắc chắn! Hẹn gặp lại bạn, đừng quên đăng ký kênh và theo dõi thông tin mới nhất từ đại gia đình nhé! ^^"
+                    ],
+                    [
+                              "User : Các bạn hãy đăng kí cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn",
+                              "Lib : Kênh Lalaschool là một kênh YouTube nổi tiếng với nhiều video hấp dẫn. Bạn có thể đăng ký kênh Lalaschool để không bỏ lỡ những video mới và thông tin hữu ích. Để xem thêm chi tiết, bạn có thể truy cập vào [đường link này](https://www.hngnews.com/lake_mills_leader/news/local/jefferson-countys-point-in-time-survey/article_fc746be6-bedd-11ee-8889-0bc1365b77dc.html)."
+                    ],
+                    [
+                              "User : Trả sách",
+                              "User : Cảm ơn các bạn đã theo dõi và hẹn gặp lại.",
+                              "Lib : none",
+                              "Lib : Xin chào! Mình có thể giúp gì cho bạn hôm nay?",
+                              "User : Trả sách",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới."
+                    ],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                              "User : Cảm ơn.",
+                              "Lib : Không có gì, có gì em cần trợ giúp thêm không ạ?"
+                    ],
+                    [
+                              "User : HẸN ĐẠI GIA ĐÌNH VIDEO TIẾP THEO NHÉ ĐẠI GIA ĐÌNH ^^"
+                    ],
+                    [],
+                    [],
+                    [
+                              "User : Trả sách",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Xin lỗi, có vẻ như cuốn sách này chưa được mượn ở thư viện.",
+                              "Lib : Bạn có muốn trả cuốn sách nào nữa không?",
+                              "Lib : Xin lỗi, có vẻ như cuốn sách này chưa được mượn ở thư viện.",
+                              "Lib : Bạn có muốn trả cuốn sách nào nữa không?",
+                              "Lib : Bạn đã hoàn thành quá trình trả sách. Bạn còn cần giúp gì nữa không?",
+                              "User : Mượn sách",
+                              "Lib : Xin hãy đưa thẻ sinh viên vào khe bên dưới.",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Bạn có muốn mượn cuốn sách nào nữa không?",
+                              "Lib : Xin hãy đưa sách vào khe bên dưới.",
+                              "Lib : Bạn có muốn mượn cuốn sách nào nữa không?",
+                              "Lib : Xác nhận để hoàn tất quá trình mượn sách.",
+                              "User : oke",
+                              "Lib : Quá trình mượn sách đã hoàn tất. \n\nBạn cần hỗ trợ gì nữa không?"
+                    ],
+                    [
+                              "User : Tôi muốn cả sách",
+                              "Lib : Xin vui lòng cung cấp thêm thông tin về cuốn sách bạn quan tâm để tôi có thể tìm kiếm và cung cấp thông tin cho bạn.",
+                              "User : Thank you for watching.",
+                              "Lib : Bạn có thể cung cấp tên cuốn sách hoặc chủ đề cụ thể mà bạn muốn tìm kiếm thông tin không?"
+                    ],
+                    [],
+                    [],
+                    [
+                              "User : Tìm sách chủ đề tạp chí ",
+                              "Lib : Đây là các cuốn sách có liên quan."
+                    ],
+                    [
+                              "User : Tìm sách chủ đề tạp chí ",
+                              "Lib : Đây là các cuốn sách có liên quan"
+                    ],
+                    [
+                              "User : tìm sách chủ đề tạp chí",
+                              "Lib : Đây là các cuốn sách có liên quan."
+                    ],
+                    [
+                              "User : tìm sách chủ đề tạp chí",
+                              "Lib : Đây là các cuốn sách có liên quan."
+                    ],
+                    [],
+                    [
+                              "User : Tìm sách về ngôn ngữ ",
+                              "Lib : Đây là các cuốn sách có liên quan."
+                    ],
+                    [],
+                    [],
+                    [
+                              "User : Tim sách về điều khiển ",
+                              "Lib : Đây là các cuốn sách có liên quan",
+                              "User : Tìm sách của tác giả Bùi Thị Bích ",
+                              "Lib : Đây là các cuốn sách có liên quan."
+                    ],
+                    [],
+                    [
+                              "User : Tìm sách về tác giả Bùi Thị Bích ",
+                              "Lib : Đây là các cuốn sách có liên quan"
+                    ]
+          ]
+}
